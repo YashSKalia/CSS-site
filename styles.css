@@ -1,0 +1,47 @@
+/* styles.css */
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('external-background.jpg');
+    background-size: cover;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+    color: white;
+    text-align: center;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+    color: white;
+    text-align: center;
+}
+p{
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: red;
+}
+table{
+    border: 1px solid black;
+}
